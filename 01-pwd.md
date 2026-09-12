@@ -1,15 +1,15 @@
 # pwd-Command
-##purpose
+## Purpose
 The command displays the current working directory.
 
-##syntax
+## Syntax
 pwd
 
-##Example
+## Example
 root@ubuntu:~$ pwd
 /root
 
-##Explanation
+## Explanation
 pwd stands for **Print Working Directory**
 It shows the full path of the current directory you are working in.
 
