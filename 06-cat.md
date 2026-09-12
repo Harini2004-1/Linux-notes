@@ -11,7 +11,7 @@ cat stands for Concatenate
 It is commonly used to display the content of a file.
 It reads the file and prints directly in the terminal.
 
-## Key Points
+## Key Points:
 Display the contents of a file.
 Can be used to read the text files quickly.
 Does not modify the file when used only with a filename.
